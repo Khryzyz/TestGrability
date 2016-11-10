@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--dimensiones de las imagenes usadas en la aplicacion-->
+
+    <dimen name="imgSizeSmall">60dp</dimen>
+    <dimen name="imgSizeMedium">90dp</dimen>
+    <dimen name="imgSizeLarge">120dp</dimen>
+</resources>

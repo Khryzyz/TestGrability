@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Dimensiones de los textos usados en la aplicacion-->
+
+    <dimen name="textSizeSmall">15sp</dimen>
+    <dimen name="textSizeMedium">20sp</dimen>
+    <dimen name="textSizeLarge">30sp</dimen>
+</resources>

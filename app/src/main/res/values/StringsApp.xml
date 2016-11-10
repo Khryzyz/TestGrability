@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TestGrability</string>
+    <string name="splash_title_bienvenida">Bienvenidos...</string>
+    <string name="splash_message_error">Error: %s</string>
+    <string name="splash_message_loading">Cargando la App, por favor espere un momento</string>
+    <string name="splash_message_endload">Carga finalizada, por favor espere un momento</string>
+    <string name="splash_message_data_deprectaed">Es necesario actualizar los datos de la app.</string>
+    <string name="splash_message_data_updated">Los datos de la app estan actualizados.</string>
+    <string name="splash_message_no_internet">No está conectado a internet se trabajara con los datos almacenados.</string>
+
+    <string name="categoria_title">Categorias</string>
+    <string name="app_title">Apps</string>
+
+
+    <string name="detail_app_name">Nombre App</string>
+    <string name="detail_app_autor">Autor: %s</string>
+    <string name="detail_app_lanzamiento">Lanzamiento: %s</string>
+    <string name="detail_app_valor">Precio: %1$s %2$s</string>
+    <string name="detail_app_resumen_titulo">Titulo Resumen</string>
+    <string name="detail_app_resumen_cuerpo">Cuerpo Resumen</string>
+
+</resources>
